@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**asadullahrao/asadullahrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Lead Software Engineer with 13+ years experience in backend development and scalable systems.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, Go, Java, SQL
+- **Backend:** Microservices, REST, GraphQL
+- **Cloud:** AWS, GCP, Docker, Kubernetes
+- **Others:** System Design, Performance Optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project1](link) – Description
+- [Project2](link) – Description
+
+## Contact
+- Email: example@email.com
+- LinkedIn: [Profile](link)
