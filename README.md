@@ -15,6 +15,14 @@ Welcome to my GitHub profile! I am a passionate Software Engineer with over **14
 - 🌍 **Location:** Lahore, Pakistan  
 - 🎯 **Goal:** Drive architecture strategy, lead high-performance engineering teams, and design scalable, maintainable systems
 
+## 🌱 Certifications
+
+- Introduction to Agentic AI – Amazon Web Services (AWS), Mar 2026
+- AWS Cloud Practitioner Essentials – Amazon Web Services (AWS), Apr 2025
+- Foundations of AI and Machine Learning for Java Developers – LinkedIn Learning, Apr 2025
+- Google AI Essentials – Google, Apr 2025
+- AWS Developer – Associate – Amazon Web Services (AWS), In Progress
+
 ---
 
 ## 💼 Professional Summary
