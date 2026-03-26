@@ -108,7 +108,7 @@ At **JPMorgan Chase**, I work on mission-critical financial systems, contributin
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: [[Rao Asad Ullah](https://www.linkedin.com/in/raoasadullah/)]
-- 📧 Email: asadullahrao@gmail.com
+- 📧 Email: asadullahrao@yahoo.com
 - 🌐 GitHub: https://github.com/asadullahrao
 
 ---
