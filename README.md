@@ -42,9 +42,9 @@ At **JPMorgan Chase**, I work on mission-critical financial systems, contributin
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Java (8–17)
-- Python
-- JavaScript / TypeScript
+- Java (8–17) - Expert
+- Python - Working Knowledge
+- JavaScript / TypeScript - Working Knowledge
 
 ### ⚙ Frameworks & Libraries
 - Spring Boot, Spring MVC, Spring Security, Spring Batch  
@@ -55,6 +55,7 @@ At **JPMorgan Chase**, I work on mission-critical financial systems, contributin
 ### 🌐 Frontend Technologies
 - HTML5, CSS3, Bootstrap  
 - Angular, AJAX, JSON, jQuery  
+- React
 
 ### 🗄 Databases
 - PostgreSQL  
