@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate Software Engineer with over **14
 
 ## 🚀 About Me
 
-- 🔭 **Currently Working At:** Innovatix Inc as a Lead Software Engineer / Solution Architect
+- 🔭 **Currently Working At:** [[Innovatix](https://www.innovatixinc.com)] as a Lead Software Engineer / Solution Architect
 - 🌱 **Learning:** Advanced System Design, Cloud Architecture, AWS, and AI-driven development  
 - 💬 **Ask me about:** Java, Spring Boot, Angular, Microservices, AWS, Kafka, System Design  
 - 😄 **Pronouns:** He / His  
